@@ -48,3 +48,23 @@ class RobodokuTest < Minitest::Test
   end
 
 end
+
+
+
+
+
+
+
+  # def test_it_can_create_a_board
+  #   robodoku = Robodoku.new
+  #   board = robodoku.create_board
+  #   assert_equal [[0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ],
+  #                 [0, 1, 2, 3, 4, 5, 6, 7, 8 ]], robodoku.create_board
+  # end

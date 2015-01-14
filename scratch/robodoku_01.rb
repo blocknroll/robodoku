@@ -18,7 +18,24 @@ class Robodoku
   end
 
   def solve_one_row
+    # @array_nums = 1
+    # binding.pry
+    # @array_nums_cleaned = @array_nums.delete_if {|num| num == 0 }
     @possible_nums - @array_nums
   end
 
+  # def delete_if
+  #
+  # end
+
+
+
 end
+
+
+
+# def create_board
+#   # get file
+#   # split lines
+#   # convert each line to array
+# end
