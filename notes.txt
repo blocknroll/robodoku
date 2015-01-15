@@ -1,1 +1,23 @@
 https://github.com/turingschool/challenges/blob/master/robodoku.markdown
+
+
+create spot class
+contains space for unknown nums
+
+iterate through array
+  if spot, solve
+  if integer, leave alone
+
+elimination method
+spot needs to figure
+
+row possibles
+col
+
+each spot: eval row, col, square
+
+feed spot
+feed arr
+reduce possi
+
+loop through for evals
